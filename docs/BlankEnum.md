@@ -1,0 +1,11 @@
+
+
+# BlankEnum
+
+## Enum
+
+
+* `EMPTY` (value: `""`)
+
+
+
